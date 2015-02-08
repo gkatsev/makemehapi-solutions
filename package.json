@@ -1,0 +1,14 @@
+{
+  "name": "makemehapi",
+  "version": "1.0.0",
+  "description": "My solutions to makemehapi nodeschool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^8.1.0"
+  }
+}
