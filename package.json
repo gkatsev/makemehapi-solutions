@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "concat-stream": "^1.4.7",
     "handlebars": "^2.0.0",
     "hapi": "^8.1.0",
     "joi": "^5.1.0",
